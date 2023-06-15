@@ -74,7 +74,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/safermobility/gosipsignalling/util"
+	"github.com/safermobility/gosip/util"
 )
 
 const (

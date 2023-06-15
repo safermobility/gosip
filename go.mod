@@ -1,3 +1,3 @@
-module github.com/safermobility/gosipsignalling
+module github.com/safermobility/gosip
 
 go 1.14

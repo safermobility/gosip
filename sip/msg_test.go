@@ -18,7 +18,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/safermobility/gosipsignalling/sip"
+	"github.com/safermobility/gosip/sip"
 )
 
 const (

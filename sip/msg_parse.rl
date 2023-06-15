@@ -18,7 +18,7 @@ package sip
 import (
 	"errors"
 	"fmt"
-	"github.com/safermobility/gosipsignalling/sdp"
+	"github.com/safermobility/gosip/sdp"
 )
 
 %% machine msg;

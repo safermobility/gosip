@@ -17,8 +17,8 @@ package dialog
 import (
 	"log"
 
-	"github.com/safermobility/gosipsignalling/sip"
-	"github.com/safermobility/gosipsignalling/util"
+	"github.com/safermobility/gosip/sip"
+	"github.com/safermobility/gosip/util"
 )
 
 const (

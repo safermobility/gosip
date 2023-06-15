@@ -35,7 +35,7 @@ package sip
 import (
 	"bytes"
 
-	"github.com/safermobility/gosipsignalling/util"
+	"github.com/safermobility/gosip/util"
 )
 
 // Represents a SIP Address Linked List

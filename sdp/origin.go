@@ -17,7 +17,7 @@ package sdp
 import (
 	"bytes"
 
-	"github.com/safermobility/gosipsignalling/util"
+	"github.com/safermobility/gosip/util"
 )
 
 // Origin represents the session origin (o=) line of an SDP. Who knows what

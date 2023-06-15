@@ -21,7 +21,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/safermobility/gosipsignalling/sdp"
+	"github.com/safermobility/gosip/sdp"
 )
 
 //line msg_parse.rl:12

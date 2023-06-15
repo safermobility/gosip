@@ -24,10 +24,10 @@ import (
 	"net"
 	"time"
 
-	"github.com/safermobility/gosipsignalling/rtp"
-	"github.com/safermobility/gosipsignalling/sdp"
-	"github.com/safermobility/gosipsignalling/sip"
-	"github.com/safermobility/gosipsignalling/util"
+	"github.com/safermobility/gosip/rtp"
+	"github.com/safermobility/gosip/sdp"
+	"github.com/safermobility/gosip/sip"
+	"github.com/safermobility/gosip/util"
 )
 
 const (
