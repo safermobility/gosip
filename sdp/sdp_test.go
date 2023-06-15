@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/jart/gosip/sdp"
+	"github.com/safermobility/gosipsignalling/sdp"
 )
 
 type sdpTest struct {

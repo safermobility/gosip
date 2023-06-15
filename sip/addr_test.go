@@ -19,7 +19,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/jart/gosip/sip"
+	"github.com/safermobility/gosipsignalling/sip"
 )
 
 type addrTest struct {
